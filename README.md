@@ -4,7 +4,7 @@
 
 ### → [Accept the assignment](https://classroom.github.com/a/0p5Rywf1)
 
-Open the resulting repo on GitHub, edit `safety_node.cpp`, commit — the Actions workflow runs the autograder and emits LLM tutor feedback automatically.
+Open the resulting repo on GitHub, edit `safety_node.py`, commit — the Actions workflow runs the autograder and emits LLM tutor feedback automatically.
 
 ---
 
